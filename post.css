@@ -1,0 +1,121 @@
+.retangulo {
+    width: 1032px;
+    height: 465px;
+    left: 204px;
+    top: 381px;
+    background: #C4C4C4;
+}
+
+.formas-de-investir {
+    padding: 20px 0 0 0 ;
+    background-color: #F7F7F7;
+    height: 650px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ilustra-poupando-img {
+    width: 250px;
+    height: 250px;
+    padding: 0 20px 5px 30px;
+}
+
+.informativo-investimento {
+    padding: 0 20px 5px 0px;
+    width: 320px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;  
+}
+
+.informativo-investimento2 {
+    margin: 0 0 25px 0;
+    padding: 0 10px 10px 10px;
+    width: 300px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.informativo-investimento3 {
+    padding: 10px 35px 10px;
+    margin: 0 50px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 233px;
+    height: 51px;
+    left: 184px;
+    top: 1391px;
+    background: #FF4081;
+    border-radius: 62px;
+    text-decoration: none;
+}
+
+.ilustra-investimento-img {
+    width: 250px;
+    height: 250px;
+    padding: 0 20px 10px 20px;
+}
+
+.ilustra-independencia-img {
+    width: 250px;
+    height: 250px;
+    padding: 0 20px 10px 20px;
+}
+
+
+
+.titulo-text-post {
+    padding: 60px 0 5px 0;
+    width: 758px;
+    height: 46px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 57px;
+    align-items: center;
+    color: #FF4081;
+}
+
+.data-text-post {
+    width: 200px;
+    height: 70px;
+    font-weight: 300;
+    line-height: 21px;
+    align-items: center;
+    color: #9D9D9D;
+}
+
+.text-post-geral {
+    width: 1032px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.titulo-text-post2 {
+    padding: 40px 0 5px 0;
+    color: #009688;
+    width: 1032px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.text-topo-pagina {
+    text-align: -webkit-center;
+}
+
+.text-geral-pagina {
+    margin-left: 160px;
+    margin-top: 60px;
+    margin-right: 160px;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,108 @@
+.cursos-educa {
+    padding: 30px 0 0 50px;
+    margin: 0 0;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    text-transform: capitalize;
+    color: #FF4081;
+}
+
+.curso-educa-text {
+    padding: 0 0 40px 50px;
+    margin: 0 0;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #555555;
+}
+
+.cursos-educa-inform {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.informativo-cursos-educa {
+    display: flex;
+}
+
+.item-curso-img {
+    flex: 1;
+}
+
+.tipo-curso-educa1 {
+    flex: 2;
+}
+
+.img-cursos-educa {
+    padding: 50px 30px 50px 100px;
+    width: 350px;
+    height: 350px;
+}
+
+.descritivo-curso-educa {
+    width: 724px;
+    height: 105px;
+    left: 545px;
+    top: 483px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.tipo-curso-educa2 {
+    padding: 10px 300px 0px 20px;
+    width: 512px;
+    height: 40px;
+    left: 545px;
+    top: 406px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+}
+
+.descritivo-curso-educa {
+    padding: 10px 50px 40px 20px;
+    width: 724px;
+    height: 105px;
+    left: 545px;
+    top: 483px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.botao-comecar-educa {
+    display: block;
+    text-align: center;
+    margin: 0 500px 100px 20px;
+    padding: 15px 10px;
+    width: 233px;
+    background: #419488;
+    border-radius: 62px;
+
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;    
+}
+
+#linha-horizontal {
+    padding: 0 100px 0 80px;
+    width: 1244px;
+    height: 5px;
+    left: 82px;
+    top: 834px;
+    background: #C4C4C4;
+    align-items: center;
+}
+
+.img-cursos-educa3 {
+    padding: 50px 30px 150px 100px;
+    width: 350px;
+    height: 450px;
+}

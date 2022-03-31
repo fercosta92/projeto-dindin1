@@ -1,0 +1,81 @@
+.titulo-formulario {
+    padding: 80px 100px 10px 0;
+    bottom: 89.02%;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #FF4081;
+}
+
+.campo-nome {
+    align-items: center;
+    padding-bottom: 5px;
+    padding-right: 200px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    background: #FFFFFF;
+    border: 1px solid #686868;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+.campo-email {
+    align-items: center;
+    padding-bottom: 5px;
+    padding-right: 200px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    background: #FFFFFF;
+    border: 1px solid #686868;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+.campo-mensagem {
+    align-items: center;
+    padding-bottom: 5px;
+    padding-right: 150px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    background: #FFFFFF;
+    border: 1px solid #686868;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+.botao-entrar {
+    padding: 10px 40px;
+    border: none;
+    margin-bottom: 80px;
+    background: #FF4081;
+    border-radius: 50px;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: lowercase;
+    color: #FFFFFF;
+}
+
+.imagem-contato {
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 444px;
+    height: 444px;
+    left: 833px;
+    top: 199px;
+}
+
+.organizacao-formulario {
+    border-width: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 50px;
+}
+
+.formulario-contato {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

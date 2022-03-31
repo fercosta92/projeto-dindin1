@@ -1,0 +1,219 @@
+.informativo-curso {
+    padding: 40px 20px 10px 60px;
+    width: 488px;
+    height: 216px;
+    top: 242px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    color: #FF4081;
+}
+
+.informativo-curso2 {
+    padding: 0 20px 10px 60px;
+    width: 462px;
+    height: 62px;
+    top: 477px;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #555555;
+}
+
+.informativo-curso3 {
+    margin:0 20px 100px 60px;
+    padding: 5px 40px 5px 40px;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 27px;
+    color: #FF4081;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+}
+
+.img-ilustra-banner {
+    padding: 90px 100px 90px 0;
+    width: 500px;
+    height: 500px;
+}
+
+
+
+
+.formas-de-investir {
+    padding: 20px 0 0 0 ;
+    background-color: #F7F7F7;
+    height: 650px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ilustra-poupando-img {
+    width: 250px;
+    height: 250px;
+    padding: 0 20px 5px 30px;
+}
+
+.informativo-investimento {
+    padding: 0 20px 5px 0px;
+    width: 320px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;  
+}
+
+.informativo-investimento2 {
+    margin: 0 0 25px 0;
+    padding: 0 10px 10px 10px;
+    width: 300px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.informativo-investimento3 {
+    padding: 10px 35px 10px;
+    margin: 0 50px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 233px;
+    height: 51px;
+    left: 184px;
+    top: 1391px;
+    background: #FF4081;
+    border-radius: 62px;
+    text-decoration: none;
+}
+
+.ilustra-investimento-img {
+    width: 250px;
+    height: 250px;
+    padding: 0 20px 10px 20px;
+}
+
+.ilustra-independencia-img {
+    width: 250px;
+    height: 250px;
+    padding: 0 20px 10px 20px;
+}
+
+.clientes-falam {
+    padding: 50px 0 50px 50px;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 50px;
+    color: #009688;
+}
+
+
+
+.clientes-fala {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.depoimento {
+    display: flex;
+    width: 40%;
+}
+
+.item-profile {
+    flex: 1;
+}
+
+.description-profile {
+    flex: 2;
+}
+
+.img-profile {
+    padding: 0 50px 10px 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.depoimento-cliente {
+    padding: 0 5px 0 0;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.cliente-idade {
+    padding: 0 50px 10px 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+
+
+
+
+.conteudo1 {
+    background-color: #E5E5E5;
+}
+
+.organizar-conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.mais-conteudo {
+    padding: 80px 700px 70px 70px;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+    color: #009688;
+}
+
+.retangulo {
+    width: 319px;
+    height: 193px;
+    left: 128px;
+    top: 2467px;
+    background: #C4C4C4;
+}
+
+.titulo-conteudo-extra {
+    margin: 5px 20px 0 0;
+    width: 319px;
+    left: 128px;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 31px;
+    color: #009688;
+}
+
+.text-conteudo {
+    width: 319px;
+    left: 556px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.background-botao {
+    background-color: #E5E5E5;
+}
+
+.botao-conteudo-extra {
+    color: #FF4081;
+    background-color: #E5E5E5;
+    border: 2px solid;
+    border-color: #FF4081;
+    border-radius: 62px;
+    text-decoration: none;
+}
