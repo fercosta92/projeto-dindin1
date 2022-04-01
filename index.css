@@ -206,14 +206,19 @@
 }
 
 .background-botao {
-    background-color: #E5E5E5;
+    padding: 80px 0 50px 0;
+    text-align: center;
+    background: #E5E5E5;
 }
-
 .botao-conteudo-extra {
+    width: 207px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
     color: #FF4081;
-    background-color: #E5E5E5;
-    border: 2px solid;
-    border-color: #FF4081;
+    width: 289px;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
     border-radius: 62px;
-    text-decoration: none;
 }
