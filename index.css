@@ -1,3 +1,9 @@
+.container-cursos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .informativo-curso {
     padding: 40px 20px 10px 60px;
     width: 488px;

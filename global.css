@@ -9,6 +9,7 @@ body{
 .container{
     width: 100%;    
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -47,7 +48,7 @@ header nav a {
     padding: 0 10px;
 }
 
-footer{
+.rodape-cursos{
     padding: 0 80px;
     background-color: #419488;
     display: flex;
@@ -62,13 +63,14 @@ footer h2 a {
     height: 102px;
 }
 
-footer ul {
-    margin: 30px 0;
-    padding: 20px 0 0;
-}
-
 footer ul li {
     list-style: none;
+}
+
+.tipos-links {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-top: 30px;
 }
 
 footer a {
@@ -83,8 +85,12 @@ footer a {
     border: 2px solid #ffffff;
     border-radius: 62px;
     box-sizing: border-box;
-    padding: 14px 41px;
+    padding: 10px 35px;
     display: block;
     margin: 0 0 15px;
     text-align: center;
+}
+
+.rodape-cursos {
+    padding: 0 100px;
 }
