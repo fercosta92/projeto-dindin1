@@ -6,8 +6,8 @@
 
 .informativo-curso {
     padding: 40px 20px 10px 60px;
-    width: 488px;
-    height: 216px;
+    max-width: 488px;
+    max-height: 216px;
     top: 242px;
     font-weight: 700;
     font-size: 60px;
@@ -17,8 +17,8 @@
 
 .informativo-curso2 {
     padding: 0 20px 10px 60px;
-    width: 462px;
-    height: 62px;
+    max-width: 462px;
+    max-height: 62px;
     top: 477px;
     font-weight: 400;
     font-size: 27px;
@@ -40,18 +40,26 @@
 
 .img-ilustra-banner {
     padding: 90px 100px 90px 0;
+}
+
+.img-ilustra-banner>img{
     width: 500px;
     height: 500px;
 }
 
-
-
+@media (max-width: 800px){
+    .img-ilustra-banner>img {
+        width: 250px;
+        height: 250px;
+    }
+}
 
 .formas-de-investir {
-    padding: 20px 0 0 0 ;
+    padding: 20px 0 20px 0 ;
     background-color: #F7F7F7;
-    height: 650px;
+    min-height: 650px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
@@ -130,7 +138,12 @@
 
 .depoimento {
     display: flex;
-    width: 40%;
+}
+
+@media (min-width: 800px){
+    .depoimento{
+        max-width: 40%;
+    }
 }
 
 .item-profile {
