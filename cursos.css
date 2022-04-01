@@ -77,6 +77,7 @@
 }
 
 .botao-comecar-educa {
+    text-decoration: none;
     display: block;
     text-align: center;
     margin: 0 500px 100px 20px;

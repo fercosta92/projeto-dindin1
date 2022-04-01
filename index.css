@@ -210,7 +210,10 @@
     text-align: center;
     background: #E5E5E5;
 }
+
 .botao-conteudo-extra {
+    padding: 10px 30px;
+    text-decoration: none;
     width: 207px;
     height: 40px;
     font-weight: 400;
@@ -221,4 +224,5 @@
     border: 2px solid #FF4081;
     box-sizing: border-box;
     border-radius: 62px;
+    background: #E5E5E5;
 }
